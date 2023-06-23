@@ -2,7 +2,8 @@
   <img src='./screenshots/logo.svg' width='400'/>
 </p>
 
-<p> 6/23 easy All Solved </p> 
+<p align='center' style='color:green'> **나의 solve 기록** </p> 
+<p align='center'> 6/23 easy All Solved </p> 
 
 <p align='center'>Collection of TypeScript type challenges</p>
 
