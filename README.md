@@ -2,7 +2,7 @@
   <img src='./screenshots/logo.svg' width='400'/>
 </p>
 
-<h3 align='center' style="color:yellow"> 나의 solve 기록 </h3> 
+<h3 align='center'> < 나의 solve 기록 ></나의> </h3> 
 <p align='center'> 6/23 easy All Solved </p> 
 
 <br>
